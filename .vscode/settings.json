@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/92211392-f4e6-4dc3-a2f2-b57f5dd6fdd2/resourceGroups/appsvc_linux_southeastasia/providers/Microsoft.Web/sites/fcu-club-backend",
+    "appService.deploySubpath": "server"
+}
